@@ -37,7 +37,7 @@ Certifique-se de ter o Ruby instalado em seu ambiente.
   ```
     ruby dimensa_diamonds.rb
   ```
-  voce vera a execeução do pgrama, assim:
+  voce verá a execeução do programa assim:
   <p align="left">
     <img src="./dimensa-diamonds.png" width="500" title="hover text">
   </p>
