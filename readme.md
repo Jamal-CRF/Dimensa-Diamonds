@@ -55,7 +55,7 @@ Certifique-se de que todas as gemas necessárias foram instaladas corretamente a
 <h2> Contribuição </h2>
 Contribuições são bem-vindas! Se você encontrar algum problema, tiver alguma sugestão de melhoria ou quiser adicionar novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-<h2> Author</h2>
+<h2> Autor</h2>
 
 <img src="https://avatars.githubusercontent.com/u/68801163?s=96&v=4" width="110" title="hover text">
 
